@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    width: 100%;
+}
+
+.main form {
+    flex: 1;
+    border: 1px solid gray;
+    padding: 1.5em;
+    margin:10px
+
+}
+.main div{
+    padding:5px
+}
+
+.filter{
+    flex: 1;
+    border: 1px solid gray;
+    justify-content: center;
+    padding: 1.5em;
+    margin:10px
+
+}
+
